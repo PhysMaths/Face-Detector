@@ -193,13 +193,6 @@ For raw Labelme JSON, the notebook converts the first shape with two points to n
 2. Open `FaceDetection.ipynb` in Jupyter/VS Code.
 3. Follow the cells in order:
    - Capture images → Annotate → Augment → Build datasets → Define model/loss → Train → Save → Inference.
-
----
-
-## License
-
-Specify your license (e.g., MIT) here.
-
 ---
 
 ## Acknowledgements
